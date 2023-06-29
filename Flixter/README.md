@@ -6,7 +6,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src="Codepath-Walkthrough.gif" width=400><br>
+<img src="Walkthrough.gif" width=400><br>
 
 GIF created with LICEcap.
 
