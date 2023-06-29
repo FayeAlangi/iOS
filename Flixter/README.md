@@ -10,11 +10,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with LICEcap.
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-The most challenging part of the project was working with the auto layout and understading when to use stack view.
 ## License
 
     Copyright [2023] [Faye Alangi]
