@@ -1,4 +1,4 @@
-# CodePath-iOS102-GroupProject
+# CodePath-iOS102-Final Project
 
 ## Name of the App : GreenLife
 
